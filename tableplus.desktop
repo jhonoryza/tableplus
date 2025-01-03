@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=TablePlus
 Type=Application
-Exec=/usr/local/bin/tableplus
+Exec=/opt/tableplus/tableplus
 Icon=/opt/tableplus/resource/image/logo.png
 Terminal=false
 Categories=Utility;Development;
